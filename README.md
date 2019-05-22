@@ -1,0 +1,1 @@
+# minicurso-ciencia-de-dados-ifce-2019
